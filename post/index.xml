@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://majunqing.github.io/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Sep 2021 09:19:03 +0800</lastBuildDate><atom:link href="http://majunqing.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MaHone And Star</title>
+      <link>http://majunqing.github.io/post/mahonelovestar/</link>
+      <pubDate>Tue, 14 Sep 2021 09:19:03 +0800</pubDate>
+      
+      <guid>http://majunqing.github.io/post/mahonelovestar/</guid>
+      <description>MaHone · 马俊卿 关于本人  我是来自陕西省渭南市的90后男孩，2021年毕业于东北电力大学 信息管理与信息系统专业，现从事IT类工作 目前在珠海工作，虽然工作后什么都不会，但是我想快速学习新的知识，进行快速成长，实现自己的理想 正因为生来什么都没有，因此我们能拥有一切 我醉欲眠卿且去 明朝有意抱琴来  关于星星  你是我遇见有意思的女生 你是一直飞鸟，飞上我的树梢，从此我乏味的生活，变得热闹 你是一个努力的女孩子，希望未来有你陪伴 我想和你看春风十里 我想和你体夏至未至 我想和你试秋波粼粼 我想和你尝冬日暖阳 我想和你共度一年四季  未来展望  学习技术 享受生活 学会爱人  联系方式  微信：MaHoneJunQing  </description>
+    </item>
+    
+  </channel>
+</rss>
